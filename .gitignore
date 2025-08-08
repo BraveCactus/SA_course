@@ -82,6 +82,5 @@ compile_commands.json
 build/
 .vscode/*
 __pycache__/
-hehe/
 
 # !.vscode/settings.json
